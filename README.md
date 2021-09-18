@@ -14,7 +14,7 @@
  
 </details>
 <P align="center">
-⚡Un bot muy simple para whatsapp :D
+Un bot muy simple para whatsapp :D
 
 </p>
 
@@ -34,19 +34,19 @@ Para nuevos desde cero en termux:
 > apt install ffmpeg && pkg install ffmpeg
 > apt install wget && pkg install wget
 
-⚡Si necesitas mas ayuda puedes contactarme :3 wa.me/+51995386439
+Si necesitas mas ayuda puedes contactarme :3 wa.me/+51995386439
 ```
 ## Despues de tener todos los packs instalados en termux solo usen estos comandos para comenzar
 ```bash
-> git clone https://github.com/NeKosmic/NK-BOT 
-> cd NK-BOT
+> git clone https://github.com/KratosV1/NK-BOT
+> cd Bot-1
 > bash install.sh
 > npm start/node nkbot.js 
 Para detener al bot en termux
 > Ctrl+c/Ctrl+z
 
-⚡Si necesitas mas ayuda puedes contactarme 
-+51 995 386 439
+Si necesitas mas ayuda puedes contactarme 
++57 314 2642 951
 ```
 ## Partes donde puedes editar al bot :v
 - Edicion de tu numero, nombre del bot, limite... [este archivo](https://github.com/NeKosmic/NeKosmic/blob/main/informacion.json)
@@ -58,13 +58,13 @@ Para detener al bot en termux
 
 ```bash
 {
-    "botcontrolador": "NUMERO PRINCIPAL", (Su numero con el cual usaran al bot por completo)
-    "contribuidor": "NUMERO SECUNDARIO", (Pueden poner el numero de un familiar, mejor amig@, novi@... podra usar el bot al igual que el dueño principal :v)
-    "tarjetavirtualx": "NUMERO PRINCIPAL CON PREFIJO", (1. Aqui poner su numero con el prefijo de su pais correspondiente, Ejm: "+51995386439")
-    "tarjetavirtualy": "NÚMERO PRINCIPAL CON PREFIJO", (2. Aqui poner su numero con el prefijo de su pais correspondiente, Ejm: "+51 995 386 439")
+    "botcontrolador": "http://wa.me/380944628463", (Su numero con el cual usaran al bot por completo)
+    "contribuidor": "http://wa.me/573142642951", (Pueden poner el numero de un familiar, mejor amig@, novi@... podra usar el bot al igual que el dueño principal :v)
+    "tarjetavirtualx": "NUMERO PRINCIPAL CON PREFIJO", (1. Aqui poner su numero con el prefijo de su pais correspondiente, Ejm: "+573142642951")
+    "tarjetavirtualy": "NÚMERO PRINCIPAL CON PREFIJO", (2. Aqui poner su numero con el prefijo de su pais correspondiente, Ejm: "+57 314 264 2951")
     "dueñobot": "NOMBRE DEL CREADOR", (Poner su nombre real o su nickname ._.XD)
     "misredes": "AQUI PUEDEN PONER EL LINKS DE SUS REDES SOCIALES ;3",
-  "limiteengrupos": "LIMITE DE MIENBROS EN UN GRUPO", (Ejm: Cuando alguien agrege al bot a un grupo con menos de 2 integrantes automáticamente el bot se saldra del grupo, limite es desde 2 asta 256)
+  "limiteengrupos": "LIMITE DE MIENBROS EN UN GRUPO", (Ejm: Cuando alguien agrege al bot a un grupo con menos de 2 integrantes automáticamente el bot se saldra del grupo, limite es desde 2 asta 257)
   "limitecomandos": "LIMITE DE USO PARA COMANDOS", (Aqui pueden poner el limite que quieran)
   "nombrebot": "NOMBRE DEL BOT" (Ponganle el name que quieran a su bot :3)
 }
@@ -91,4 +91,4 @@ Para detener al bot en termux
 * <a href="https://github.com/NazwaS"><img alt="GitHub" src="https://img.shields.io/badge/NazwaS%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
 ## Grupo de WhatsApp
 PSDT: Grupo otaku/anime
-* <a href="https://chat.whatsapp.com/BcSo5z69P0f7gDOJA3FaKy"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/LP5ftc6uXSGHaWOCG2VVym"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
