@@ -63,7 +63,7 @@ Si necesitas mas ayuda puedes contactarme
     "tarjetavirtualx": "+573142642951", (1. Aqui poner su numero con el prefijo de su pais correspondiente
     "tarjetavirtualy": "+57 314 264 2951", (2. Aqui poner su numero con el prefijo de su pais correspondiente
     "dueñobot": "Kratos", (Poner su nombre real o su nickname ._.XD)
-    "misredes": "AQUI PUEDEN PONER EL LINKS DE SUS REDES SOCIALES ;3",
+    "misredes": "https://youtube.com/c/Felixcrack409",
   "limiteengrupos": "2", (Ejm: Cuando alguien agrege al bot a un grupo con menos de 2 integrantes automáticamente el bot se saldra del grupo, limite es desde 2 asta 257)
   "limitecomandos": "60", (Aqui pueden poner el limite que quieran)
   "nombrebot": "𝐾𝑟𝑎𝑡𝑜𝑠" (Ponganle el name que quieran a su bot :3)
