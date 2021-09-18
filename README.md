@@ -60,13 +60,13 @@ Si necesitas mas ayuda puedes contactarme
 {
     "botcontrolador": "http://wa.me/380944628463", (Su numero con el cual usaran al bot por completo)
     "contribuidor": "http://wa.me/573142642951", (Pueden poner el numero de un familiar, mejor amig@, novi@... podra usar el bot al igual que el dueño principal :v)
-    "tarjetavirtualx": "NUMERO PRINCIPAL CON PREFIJO", (1. Aqui poner su numero con el prefijo de su pais correspondiente, Ejm: "+573142642951")
-    "tarjetavirtualy": "NÚMERO PRINCIPAL CON PREFIJO", (2. Aqui poner su numero con el prefijo de su pais correspondiente, Ejm: "+57 314 264 2951")
-    "dueñobot": "NOMBRE DEL CREADOR", (Poner su nombre real o su nickname ._.XD)
+    "tarjetavirtualx": "+573142642951", (1. Aqui poner su numero con el prefijo de su pais correspondiente
+    "tarjetavirtualy": "+57 314 264 2951", (2. Aqui poner su numero con el prefijo de su pais correspondiente
+    "dueñobot": "Kratos", (Poner su nombre real o su nickname ._.XD)
     "misredes": "AQUI PUEDEN PONER EL LINKS DE SUS REDES SOCIALES ;3",
-  "limiteengrupos": "LIMITE DE MIENBROS EN UN GRUPO", (Ejm: Cuando alguien agrege al bot a un grupo con menos de 2 integrantes automáticamente el bot se saldra del grupo, limite es desde 2 asta 257)
-  "limitecomandos": "LIMITE DE USO PARA COMANDOS", (Aqui pueden poner el limite que quieran)
-  "nombrebot": "NOMBRE DEL BOT" (Ponganle el name que quieran a su bot :3)
+  "limiteengrupos": "2", (Ejm: Cuando alguien agrege al bot a un grupo con menos de 2 integrantes automáticamente el bot se saldra del grupo, limite es desde 2 asta 257)
+  "limitecomandos": "60", (Aqui pueden poner el limite que quieran)
+  "nombrebot": "𝐾𝑟𝑎𝑡𝑜𝑠" (Ponganle el name que quieran a su bot :3)
 }
 ```
 
@@ -74,8 +74,8 @@ Si necesitas mas ayuda puedes contactarme
 
 ```bash
 {
-    "bienbenida1": "TEXTO DIRIGIENDOSE A UN USUARIO NUEVO",
-    "despedida1": "TEXTO DE DESPEDIDA SI UN USUARIO SE SALE DE UN GRUPO"
+    "bienbenida1": "Se Bienvenid@ espero el grupo sea de tu agrado 7w7",
+    "despedida1": "Quien se salió……? tampoco importa."
   }
 ```
 ## Comentarios ó sugerencias :3
